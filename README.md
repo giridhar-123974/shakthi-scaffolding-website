@@ -46,7 +46,7 @@ flowchart TB
         WA["WhatsApp Web / App (https://wa.me/916300025230)"]
         Mail["Default Email Client (mailto:Infoshakthiscaffolding@gmail.com)"]
         Tel["Mobile Phone Dialer (tel:+916300025230)"]
-        Maps["Google Maps & Socials (Instagram / LinkedIn)"]
+        Maps["Google Maps & Socials (Instagram)"]
     end
 
     Browser <-->|"HTTP GET + Cache-Control: no-cache"| HTTP
